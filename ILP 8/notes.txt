@@ -1,0 +1,107 @@
+Druckmessungen
+Fundamentale bei (mBar)
+(1) 4,1E-6
+(2) 1,9E-3
+
+Ringdown (mBar / kHz)
+(1)
+Druck:		3,2E-6
+Frequenz:	126,76
+
+(2)
+Druck:		9,6E-6
+Frequenz:	126,76
+
+(3)
+Druck:		6,0E-5
+Frequenz:	126,76
+
+(4)
+Druck:		2,6E-4
+Frequenz:	126,76
+
+(5)
+Druck:		6,1E-4
+Frequenz:	126,75
+
+(6)
+Druck:		1,8E-3
+Frequenz:	126,73
+
+(7)
+Druck:		4,6E-3
+Frequenz:	126,70
+
+(8)
+Druck:		8,5E-3
+Frequenz:	126,66
+
+(9)
+Druck:		2,2E-5
+Frequenz:	126,53
+
+(10)
+Druck:		5,2E-4
+Frequenz:	126,52
+
+(11)
+Druck:		3,7E-3
+Frequenz:	126,50
+
+(12)
+Druck:		2,2E-2
+Frequenz:	126,46
+
+(13)
+Druck:		8,2E-2
+Frequenz:	126,239
+
+(14 (nicht schön))
+Druck:		1E0
+Frequenz:	126,413
+
+(2_1 (nicht schön))
+Druck:		3,4E-6
+Frequenz:	200,02
+
+(2_2)
+Druck:		7,6E-6
+Frequenz:	200,02
+
+(2_3)
+Druck:		2,2E-5
+Frequenz:	200,02
+
+(2_4)
+Druck:		8,2E-5
+Frequenz:	200,02
+
+(2_5)
+Druck:		1,6E-4
+Frequenz:	200,01
+
+(2_6)
+Druck:		4,0E-4
+Frequenz:	200,00
+
+(2_7)
+Druck:		6,1E-4
+Frequenz:	199,98
+
+(2_8)
+Druck:		1,4E-3
+Frequenz:	199,98
+
+(2_9)
+Druck:		3,3E-3
+Frequenz:	199,95
+
+(2_10)
+Druck:		4,6E-3?
+Frequenz:	199,94
+
+
+Temperaturmessung
+- Integral nur vom Peak (Annahme einer delta-Distribution)
+- Maximum (Delta zum Rauschen): 3dB (RBW 20Hz, Max -89)
+Druck: 1,6E-6
